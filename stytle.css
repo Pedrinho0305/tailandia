@@ -1,2 +1,12 @@
 @import "./css/global.css";
 @import "./css/header.css";
+
+section{
+    background-image: url("/assets/imagem\ fundo.png");
+
+}
+
+img {
+    margin: 45px;
+    background-size: cover;
+}

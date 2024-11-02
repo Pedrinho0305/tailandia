@@ -4,3 +4,12 @@
     box-sizing: border-box;
     font-family: 'Inter', sans-serif;
 }
+:root {
+    --bege: f4f0bb;
+    --white: FFF;
+    --dark-red: #a4181b;
+}
+
+div img {
+    background-image: url("/assets/imagem\ fundo.png");
+}
