@@ -6,7 +6,16 @@ section{
 
 }
 
-img {
-    margin: 45px;
+main {
+    background-image: url(./assets/imagem\ fundo.png);
+    height: 100vh;
+    background-repeat: no-repeat;
     background-size: cover;
+    margin-inline: 1.5rem;
+    margin-top: 2.5rem;
+    
+}
+
+main h1 {
+    color: var(--white);
 }

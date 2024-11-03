@@ -2,7 +2,10 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: var(--bege);
+    background-color: var(--white);
+    margin-top: 2.5rem;
+    font-size: 2rem;
+    margin-inline: 1.5rem;
 }
  header ul {
     display: flex;
@@ -20,7 +23,7 @@ header {
  }
 
  header img {
-   width: 4rem;
-   height: 4rem;
+   width: 5rem;
+   height: 5rem;
    border-radius: 50%;
  }
