@@ -5,16 +5,19 @@ body {
     background-color: var(--bege);
 }
 
+h1 {
+    color: var(--dark-red);
+}
+
 .cultura1 {
-    background-color: #fff;
+    background-color: var(--semi-orange);
             width: 200px;
             margin: 10px;
             padding: 15px;
             text-align: center;
             border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            box-shadow: 0 4px 8px var(--semi-orange);
 }
-
 
 
 

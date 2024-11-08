@@ -47,3 +47,28 @@ main a {
     border-radius: 3rem;
     width: 30%;
 }
+
+.capital img {
+    border-radius: 3rem;
+    width: 30%;
+}
+
+.localizacao {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background-color: var(--semi-orange);
+}
+
+.capital {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background-color: var(--semi-orange);
+}
+
+.moeda img {
+    border-radius: 3rem;
+    width: 30%;
+}
+
+.moeda {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background-color: var(--semi-orange);
+}

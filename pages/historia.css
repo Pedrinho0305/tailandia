@@ -20,7 +20,7 @@ header img {
   margin-left: 2rem;
 }
 
- .historia1, .historia2 {
+ .historia1{
     background-color: #fff;
      width: 30rem;
      margin: 1rem;
@@ -28,16 +28,44 @@ header img {
      text-align: center;
      border-radius: 10px;
      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-     background-color: #e9bc8b;
+     
 }
 
- .foto1 {
+
+.historia1 img {
+  border-radius: 3rem;
+}
+
+.historia2 {
+  background-color: #fff;
   width: 30rem;
   margin: 1rem;
   padding: 1.5rem;
   text-align: center;
   border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  
+}
+
+.historia2 img {
+  border-radius: 3rem;
+}
+
+ .foto_1 {
+  width: 30rem;
+  margin: 1rem;
+  padding: 1.5rem;
+  text-align: center;
+  border-radius: 1rem;
  }
 
+ .foto_2 {
+  width: 30rem;
+  margin: 1rem;
+  padding: 1.5rem;
+  text-align: center;
+  border-radius: 1rem;
+ }
+ 
 
  
