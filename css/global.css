@@ -2,11 +2,13 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Inter', sans-serif;
+    font-family: "Archivo Black", sans-serif;
+    
 }
 :root {
-    --bege: #f4f0bb;
+    --bege: #fff1cf;
     --white: #FFF;
     --dark-red: #a4181b;
+    --semi-orange: #e9bc8b;
 }
 

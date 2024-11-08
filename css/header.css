@@ -6,6 +6,8 @@ header {
     margin-top: 2.5rem;
     font-size: 2rem;
     margin-inline: 1.5rem;
+    
+    
 }
  header ul {
     display: flex;
@@ -18,7 +20,9 @@ header {
 
  header a {
     text-decoration: none;
+    font-family: "Inter", sans-serif;
     font-weight: bold;
+    
     color: var(--dark-red);
  }
 
@@ -26,4 +30,19 @@ header {
    width: 5rem;
    height: 5rem;
    border-radius: 50%;
+ }
+
+ header {
+   height: 6rem;
+   margin: auto;
+ }
+ 
+ nav a {
+     
+     margin-right: 2rem;
+     
+ }
+ 
+ header img {
+   margin-left: 2rem;
  }
