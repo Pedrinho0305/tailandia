@@ -6,6 +6,10 @@ header {
     margin-top: 2.5rem;
     font-size: 2rem;
     margin-inline: 1.5rem;
+    margin-inline: 1.5rem;
+    
+    
+    margin-inline: 1.5rem; 
     
     
 }
@@ -30,6 +34,7 @@ header {
    width: 5rem;
    height: 5rem;
    border-radius: 50%;
+   margin-left: 2rem;
  }
 
  header {
