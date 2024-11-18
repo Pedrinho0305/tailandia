@@ -1,2 +1,37 @@
 @import "../css/global.css";
 @import "../css/header.css";
+
+.turismo_capital img {
+    width: 30rem;
+}
+
+body {
+    background-color: #fff1cf;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+ img {
+    max-width: 25rem;
+}
+
+.turismo1 {
+    display: flex;
+    
+   
+}
+
+ main div {
+    
+    max-width: 28rem;
+}
+
+.turismo2 {
+   display: flex;
+   gap: 3rem;
+   margin-top: 6rem;
+   margin-left: 6rem;
+
+}
