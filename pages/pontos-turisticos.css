@@ -51,10 +51,10 @@ main {
 }
 
 p {
-    font-family: Montaser Arabic;
+    font-family: Montaser Arabic, sans-serif;
     font-size: 1.6rem;
     margin-left: 0.3rem;
     margin-top: 1.5rem;
     color: black;
-    font-weight: 600;
+    font-weight: 550;
 }
