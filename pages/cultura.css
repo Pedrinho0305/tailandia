@@ -38,16 +38,22 @@ p {
 .cultura1 img, .cultura2 img {
     width: 30%; 
     margin-bottom: 2rem; 
+    margin-left: 2rem;
 }
 
 .cultura1 p, .cultura2 p {
-    text-align: center;
+    text-align: justify;
     width: 30%;
 }
 
-.cultura_Parte2 img {
-    width: 150px;
-    height: auto;
+
+
+  .cultura1 img {
+    margin-right: 5rem;
+    margin-left: 2.5rem;
+    
   }
   
-  
+    .cultura2 img {
+        margin-right: 4.3rem;
+    }
