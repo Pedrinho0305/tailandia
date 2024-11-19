@@ -2,19 +2,21 @@
 @import "../css/header.css";
 
 body {
-    background-color: var(--bege);
+    background-color: #fff1cf;
 }
 
 h1 {
-    color: var(--dark-red);
+    font-size: 2.5rem;
     text-align: center;
-    margin-block: 1rem;
+    margin-top: 2rem;
+    color: #a4181b;
 }
 
 img {
     max-width: 25rem;
     height: 15rem;
     border-radius: 2.5rem;
+    margin-left: 2rem;
 }
 
 p {
@@ -26,34 +28,26 @@ p {
     font-weight: 550;
 }
 
-.cultura1 {
-     width: 200px;
-     margin: 10px;
-     padding: 30px;
-     text-align: center;
-     border-radius: 10px;
+.cultura1, .cultura2 {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between; 
+    margin: 4rem 10rem;
 }
 
-.cultura2 {
-     width: 200px;
-     margin: 10px;
-     padding: 15px;
-     text-align: center;
-     border-radius: 10px;
+.cultura1 img, .cultura2 img {
+    width: 30%; 
+    margin-bottom: 2rem; 
 }
 
-.cultura3 {
-    width: 200px;
-    margin: 10px;
-    padding: 30px;
+.cultura1 p, .cultura2 p {
     text-align: center;
-    border-radius: 10px;
+    width: 30%;
 }
 
-.cultura4 {
-    width: 200px;
-    margin: 10px;
-    padding: 30px;
-    text-align: center;
-    border-radius: 10px;
-}
+.cultura_Parte2 img {
+    width: 150px;
+    height: auto;
+  }
+  
+  
