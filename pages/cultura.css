@@ -7,20 +7,53 @@ body {
 
 h1 {
     color: var(--dark-red);
+    text-align: center;
+    margin-block: 1rem;
+}
+
+img {
+    max-width: 25rem;
+    height: 15rem;
+    border-radius: 2.5rem;
+}
+
+p {
+    font-family: Montaser Arabic, sans-serif;
+    font-size: 1.6rem;
+    margin-left: 0.3rem;
+    margin-top: 1.5rem;
+    color: black;
+    font-weight: 550;
 }
 
 .cultura1 {
-    background-color: var(--semi-orange);
-            width: 200px;
-            margin: 10px;
-            padding: 15px;
-            text-align: center;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px var(--semi-orange);
+     width: 200px;
+     margin: 10px;
+     padding: 30px;
+     text-align: center;
+     border-radius: 10px;
 }
 
+.cultura2 {
+     width: 200px;
+     margin: 10px;
+     padding: 15px;
+     text-align: center;
+     border-radius: 10px;
+}
 
+.cultura3 {
+    width: 200px;
+    margin: 10px;
+    padding: 30px;
+    text-align: center;
+    border-radius: 10px;
+}
 
-
-
-
+.cultura4 {
+    width: 200px;
+    margin: 10px;
+    padding: 30px;
+    text-align: center;
+    border-radius: 10px;
+}

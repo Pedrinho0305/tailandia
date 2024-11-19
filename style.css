@@ -23,7 +23,7 @@ main {
 }
 
 body {
-    background: var(--semi-orange);
+    background: var(--bege);
 }
 main h1 {
     color: var(--white);
@@ -145,7 +145,7 @@ main a {
     display: flex;
     gap: 6rem;
     justify-content: center;
-    background: var(--semi-orange);
+    background: var(--bege);
     margin-top: 0rem;
 }
 
